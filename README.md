@@ -115,3 +115,4 @@ int main() {
 ![Screenshot 2025-04-07 191439](https://github.com/user-attachments/assets/49f0a35d-a05c-47dc-a8f5-7018a878becc)
 
 ## RESULT
+The program is executed successfully.
